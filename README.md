@@ -6,4 +6,4 @@ Airline data holds immense importance as it offers insights into the functioning
 Content
 This dataset comprises diverse parameters relating to airline operations on a global scale. The dataset prominently incorporates fields such as Passenger ID, First Name, Last Name, Gender, Age, Nationality, Airport Name, Airport Country Code, Country Name, Airport Continent, Continents, Departure Date, Arrival Airport, Pilot Name, and Flight Status. These columns collectively provide comprehensive insights into passenger demographics, travel details, flight routes, crew information, and flight statuses. Researchers and industry experts can leverage this dataset to analyze trends in passenger behavior, optimize travel experiences, evaluate pilot performance, and enhance overall flight operations.
 
-First exploratory analysis performed, read/write parquet files, and decision tree classification, logistic regression algorithms applied using pyspark machine learning library.
+First exploratory analysis performed, read/write parquet files, decision tree classification and logistic regression algorithms applied using pyspark machine learning library.
